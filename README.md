@@ -4,12 +4,12 @@ This script will download free albums from BandCamp without user-interaction. No
 
 ## Requirements:
 
-Python 3.4+ ([download](https://www.python.org/downloads/))
-BeautifulSoup (pip install beautifulsoup4) ([docs](http://www.crummy.com/software/BeautifulSoup/bs4/doc/))
-Splinter (pip install splinter) ([docs](https://splinter.readthedocs.org/en/latest/index.html))
-PhantomJS ([download](http://phantomjs.org/download.html))
-PhantomJS Webdriver (pip install selenium)
-wget (pip install wget)
+* Python 3.4+ ([download](https://www.python.org/downloads/))
+* BeautifulSoup (pip install beautifulsoup4) ([docs](http://www.crummy.com/software/BeautifulSoup/bs4/doc/))
+* Splinter (pip install splinter) ([docs](https://splinter.readthedocs.org/en/latest/index.html))
+* PhantomJS ([download](http://phantomjs.org/download.html))
+* PhantomJS Webdriver (pip install selenium)
+* wget (pip install wget)
 
 ## Usage:
 
