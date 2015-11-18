@@ -9,13 +9,13 @@ import wget
 ##########
 # Bandcamp Bulk Album Downloader
 # 
-# This script will download free albums from BandCamp without user-interaction.
-# Note: This script does NOT rip audio from BandCamp pages, it just automates the
+# This script will download free albums from Bandcamp without user-interaction.
+# Note: This script does NOT rip audio from Bandcamp pages, it just automates the
 # process of downloading albums.
 # 
 ##########
 
-list_file = 'dl.txt'  # File with list of BandCamp URLs separated by newlines.
+list_file = 'dl.txt'  # File with list of Bandcamp URLs separated by newlines.
 mail_name = 'heyo231' # Name used for disposable mail service, pick something unique.
 dl_format = 'FLAC'	  # Audio format to download in.
 					  # List of options (case sensitive):
@@ -36,7 +36,7 @@ def find_nth(haystack, needle, n):
 		n -= 1
 	return start
 
-content = []	# Open file with list of BandCamp albums to download
+content = []	# Open file with list of Bandcamp albums to download
 with open(list_file) as f:
     content = f.readlines()
 
