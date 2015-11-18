@@ -1,4 +1,4 @@
-# Bandcamp Bulk Album Downloader
+# Bandcamp Free Album Download Automator
 
 This script will download free albums from BandCamp without user-interaction. Note: This script does NOT rip audio from BandCamp pages, it just automates the clicking process of downloading albums.
 
