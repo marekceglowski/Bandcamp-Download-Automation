@@ -10,19 +10,18 @@ This script will download free albums from Bandcamp without user-interaction. No
 * PhantomJS Webdriver (*pip install selenium*)
 * wget (*pip install wget*)
 
-### Usage:
+### How to use:
 
 * A list of free bandcamp album links seperated by newlines should go into [links.ini](links.ini).
 * Run the script and watch the output in your command window (or just let it run). 
 * You can change the format download format and disposable email used as variables at the top of the script.
 
-Download formats:
+Download formats: MP3 V0, MP3 320, FLAC, AAC, Ogg Vorbis, ALAC, WAV, AIFF
 
-* MP3 V0
-* MP3 320
-* FLAC
-* AAC
-* Ogg Vorbis
-* ALAC
-* WAV
-* AIFF
+### Some uses:
+
+* Downloading Bandcamp albums in terminal (ex. over SSH connection)
+* Automatically downloading a queue of bandcamp albums without clicking much
+* Scripts that require Bandcamp albums to be downloaded before extraction, sharing, etc.
+
+Copyright © 2014 Marek Ceglowski | [MIT license](https://opensource.org/licenses/MIT)
