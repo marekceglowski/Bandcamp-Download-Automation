@@ -5,10 +5,10 @@ This script will download free albums from Bandcamp without user-interaction. No
 ### Requirements:
 
 * Python 3.4+ ([download](https://www.python.org/downloads/))
-* Splinter (pip install splinter) ([docs](https://splinter.readthedocs.org/en/latest/index.html))
+* Splinter (*pip install splinter*) ([docs](https://splinter.readthedocs.org/en/latest/index.html))
 * PhantomJS ([download](http://phantomjs.org/download.html)) (place executable in same folder)
-* PhantomJS Webdriver (pip install selenium)
-* wget (pip install wget)
+* PhantomJS Webdriver (*pip install selenium*)
+* wget (*pip install wget*)
 
 ### Usage:
 
