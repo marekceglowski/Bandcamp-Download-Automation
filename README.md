@@ -24,4 +24,4 @@ Download formats: MP3 V0, MP3 320, FLAC, AAC, Ogg Vorbis, ALAC, WAV, AIFF
 * Automatically downloading a queue of bandcamp albums without clicking much
 * Scripts that require Bandcamp albums to be downloaded before extraction, sharing, etc.
 
-Copyright © 2014 Marek Ceglowski | [MIT license](https://opensource.org/licenses/MIT)
+Copyright © 2016 Marek Ceglowski | [MIT license](https://opensource.org/licenses/MIT)
